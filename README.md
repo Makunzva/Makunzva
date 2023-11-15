@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Makunzva
-- 👀 I’m interested in business analysis
-- 🌱 I’m currently learning python
+- 👀 I’m interested in business analysist
+- 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on data analysis using python projects
 - 📫 Reach me on smakunzva@live.com 
 
